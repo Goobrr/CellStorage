@@ -8,6 +8,6 @@ main: "cell.CellStorage"
 
 version: 1.0
 
-minGameVersion: 140
+minGameVersion: 141
 
 java: true
